@@ -1,0 +1,13 @@
+.block{
+    display: block;
+}
+.tabs{
+    display: flex;
+}
+.display{
+    display: none;
+    
+}
+#main{
+    display: flex;
+}
